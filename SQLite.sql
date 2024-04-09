@@ -1,0 +1,7 @@
+CREATE TABLE Students (
+  [id_student] INTEGER PRIMARY KEY AUTOINCREMENT,
+  [Surname] VARCHAR(45) NOT NULL,
+  [Name] VARCHAR(20) Not NULL,
+  [Address] VARCHAR(100) DEFAULT 'None',
+  [Tel] VARCHAR(11) DEFAULT 'None'
+  )
