@@ -1,1 +1,0 @@
-SELECT surname FROM Students WHERE address == 'д.78'
