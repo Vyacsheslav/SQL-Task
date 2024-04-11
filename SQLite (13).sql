@@ -1,1 +1,0 @@
-SELECT surname, mark,AVG(mark) FROM Students, Matks
