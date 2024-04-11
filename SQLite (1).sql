@@ -1,6 +1,0 @@
-CREATE TABLE Matks (
-  [id_Matks] INTEGER PRIMARY KEY AUTOINCREMENT,
-  [Subject] VARCHAR(45) NOT NULL,
-  [Date_mark] DATE NOT NULL,
-  [Mark] TINYINT NOT NULL
-)
