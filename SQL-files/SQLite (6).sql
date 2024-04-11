@@ -1,0 +1,1 @@
+SELECT * FROM Matks WHERE mark == 2

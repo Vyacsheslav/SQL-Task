@@ -1,0 +1,1 @@
+SELECT surname, mark FROM Students, Matks WHERE mark != 'None'
