@@ -1,1 +1,0 @@
-SELECT * FROM Students WHERE surname LIKE 'A%' AND '%B%'
