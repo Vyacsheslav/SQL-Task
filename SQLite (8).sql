@@ -1,1 +1,0 @@
-SELECT surname, name, tel FROM Students WHERE tel LIKE '%7%' AND '%2%' AND '%3%' AND '%4%' AND '%5%'
