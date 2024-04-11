@@ -1,1 +1,0 @@
-SELECT * FROM Students WHERE surname == 'Иванов' OR 'Петров' OR 'Сидоров'
