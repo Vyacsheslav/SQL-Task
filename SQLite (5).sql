@@ -1,1 +1,0 @@
-SELECT surname,subject, mark FROM Matks, Students
